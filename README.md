@@ -1,5 +1,9 @@
 # 🌍 WorldAtlas
 
+### 🌐 Live Demo
+
+[https://globe-tracker.netlify.app/](https://globe-tracker.netlify.app/)
+
 **Explore the world, one country at a time.**  
 An informative and visually appealing web project that allows users to discover facts, culture, and key details about different countries across the globe.
 
@@ -25,5 +29,22 @@ An informative and visually appealing web project that allows users to discover 
 - **REST Countries API** – Provides real-time data for all countries  
   👉 [https://restcountries.com/](https://restcountries.com/)
 
+---
+## 🔗 Useful Links
+
+* 🌐 **Live Demo:** [https://globe-tracker.netlify.app/](https://globe-tracker.netlify.app/)
+* 💻 **GitHub Repository:** [https://github.com/bagdenatasha2001/WorldAtlas](https://github.com/bagdenatasha2001/WorldAtlas)
+
+---
+
+## 🧑‍💻 Author
+
+**Natasha Bagde**
+Frontend Developer | Passionate about React.js, Tailwind CSS, and modern web design.
+
+* 🔗 [GitHub](https://github.com/bagdenatasha2001)
+* 🔗 [LinkedIn](https://linkedin.com/in/natasha-bagde-250671234/)
+
+---
 
 
